@@ -1,0 +1,26 @@
+body{
+    background: url("/static/back.jpg") center/cover no-repeat;
+    color: white;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10vh auto;
+}
+h3{
+    text-align: center;
+    width: 60%;
+    margin: 2vh auto;
+    background-color: #a3d8ec;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px 10px;
+}
+
+img{
+    border: 1px solid white;
+}

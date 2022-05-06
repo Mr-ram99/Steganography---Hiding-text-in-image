@@ -1,0 +1,19 @@
+body{
+    background: url("/static/back.jpg") center/cover no-repeat;
+    color: white;
+}
+h3{
+    color: white;
+}
+form{
+    background-color: rgb(240, 240, 240);
+    color: rgb(0, 0, 0);
+    width: 55%;
+    margin: 30vh auto ;
+    padding: 5px 10px;
+}
+button{
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}

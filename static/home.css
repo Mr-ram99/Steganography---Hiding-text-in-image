@@ -1,0 +1,30 @@
+body{
+    background: url("/static/back.jpg") center/cover repeat-y;
+    color: white;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+a {
+    background-color: red;
+    color: white;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+  }
+a:hover {
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    color: red;
+  }
+  
+
+  h2{
+      color: white;
+      font-weight: 600 ;
+  }

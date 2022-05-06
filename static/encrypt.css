@@ -1,0 +1,16 @@
+body{
+    background: url("/static/back.jpg") center/cover no-repeat;
+}
+
+form{
+    background-color: rgb(240, 240, 240);
+    color: rgb(0, 0, 0);
+    width: 55%;
+    margin: 0 auto ;
+    padding: 5px 10px;
+}
+button{
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+}
